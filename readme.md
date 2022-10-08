@@ -6,5 +6,5 @@ the first repository
 1. c
 2. d
 
-**bold**
+**bold** <br>
 *italics*
